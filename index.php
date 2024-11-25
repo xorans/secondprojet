@@ -6,6 +6,9 @@
     <title>Seconde projet</title>
 </head>
 <body>
-    <h1>Titre</h1>
+   
+    <p>
+        Mon paragraphe
+    </p>
 </body>
 </html>
