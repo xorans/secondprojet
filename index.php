@@ -6,7 +6,9 @@
     <title>Seconde projet</title>
 </head>
 <body>
-   
+   <?php 
+    echo date ("d-m-Y H:i:s"); 
+   ?>
     <p>
         Mon paragraphe
     </p>
